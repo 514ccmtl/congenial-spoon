@@ -11,18 +11,26 @@ A pull request is a way to merge changes from one branch into another branch. A 
 # c. Describe steps to open a pull request?
 The following are the steps to open a pull request:
 First, fork the repository from the main branch - On Github.com --> Select Create a new fork in the Code tab 
+
 Second, clone the repository locally to your computer --> In Github.com, copy the URL for the new fork --> Then go to Git Bash, enter git clone https://github.com/your_specific_username/repository.git --> Enter
+
 Third, create a new branch --> In Bash, enter git checkout -b feature/github_branch_name
 Fourth, write the code
+
 Fifth, Stage the changes, commit the changes, and write a descriptive commit message --> git -a -m "These are the new changes for the code"
-Sixth, psuh the branch to repository --> git push origin main 
+
+Sixth, push the branch to repository --> git push origin main 
 
 # d. Describe steps to add a collaborator to a repository (share write permissions)
 The following are the steps to add a collaborator to a repository:
 First, Got to Github.com, log in, and go to the repository where the collaborator should be added
+
 Second, click on the Settings tab of the repository
+
 Third, click the Collaborators button in the Access section
+
 Fourth, click Invite a collaborator in the Collaborators section --> Type the collaborator's Github username --> Click Add username to send an invitation to the user
+
 Fifth, an email is sent to the collaborator --> Collaborator accepts the invitation to access the repo
 
 # e. What is the difference between git and GitHub?
