@@ -1,3 +1,6 @@
+# Git Assignment - 514ccmtl
+
+
 # QUESTION 6
 # a. What is an issue?
 An issue in Git is a way to communicate, manage, and track the progress of code/work in a coding project. Issues are tracked in a particular repository in which comments and notations can be entered so that relevant users can provide commentary, feedback, resolve bugs or provide input on code or issues for a project. 
